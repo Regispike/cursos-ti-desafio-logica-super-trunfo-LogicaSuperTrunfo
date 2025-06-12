@@ -172,5 +172,7 @@ int main () {
     } else {
         printf("Resultado: Carta 2 %s venceu!\n", cidadeVencedora2);
     }
+    Printf("novo commit\n");
+    
 
 }
